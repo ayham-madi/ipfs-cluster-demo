@@ -25,7 +25,7 @@ data['cluster']['peers'] = []
 dimitris = "/ip4/10.189.102.241/tcp/9096/ipfs/Qmdo7ML44MUmqHCqBsAZsv1WKMCQh3kjcktGA3ewHjWjC6"
 sonke = "/ip4/10.189.102.255/tcp/9096/ipfs/QmUPavTLbQqw89HsUPWRMuFs6SS54FGcSKLAmFF9hs6EZC"
 deniz = "/ip4/10.189.103.0/tcp/9096/ipfs/QmR2qzY2jknHDPG4pngt3fdYrCfWay2w9iXAr6GmZNUBfq"
-ayham = "/ip4/10.189.103.10/tcp/9096/ipfs/QmaKqVtAdqCA5FEZu4XiZmBMcEAsjXBAj7fQii4LFd8fMT"
+ayham = "/ip4/10.189.103.10/tcp/9096/ipfs/Qmbc9RPXaBvCdWvvbqRb8CRFekSKYp6auxsAh3e6N5S5ow"
 data['cluster']['peers'].append(dimitris)
 data['cluster']['peers'].append(sonke)
 data['cluster']['peers'].append(deniz)
